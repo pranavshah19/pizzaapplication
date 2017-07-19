@@ -41,6 +41,6 @@
   },
   "repository" : {
      "type": "git",
-     "url" : "git://github.com/pranavshah19/pizzaapplication.git"
+     "url" : "https://github.com/pranavshah19/pizzaapplication.git"
   }
 }
